@@ -67,4 +67,4 @@ Sisend: 4, 4, 4
 Väljund: 64
 
 
-- [ ] Done!
+- [x] Done!
