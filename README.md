@@ -68,3 +68,14 @@ Väljund: 64
 
 
 - [x] Done!
+
+
+## Siin on minu enda ülesanded!
+
+**Leia oma õnnenumber!**
+*random_number_game.py*
+
+Sisesta üks arv (1-20) ja vaata, kas suudad arvata ära sama numbri, mida arvas arvuti.
+Mänguõnne!
+
+
