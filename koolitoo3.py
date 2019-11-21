@@ -18,6 +18,9 @@ if number1 == number2 and number1 == number3:
 elif number1 != number2 and number1 != number3:
     print(summary)
     
+else:
+    print(summary)
+    
 
 
 
