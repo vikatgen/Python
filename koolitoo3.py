@@ -14,15 +14,6 @@ summary = sum(numberArray)
 if number1 == number2 and number1 == number3:
     print((number1 * number2) * number3)
     
-#kui tingimus on väär, siis prindi välja muutuja "summary", kus me tegime liitmise juba ära
-elif number1 != number2 and number1 != number3:
-    print(summary)
-    
+#kui tingimus on väär, siis prindi välja muutuja "summary", kus me tegime liitmise juba ära   
 else:
     print(summary)
-    
-
-
-
-
-
